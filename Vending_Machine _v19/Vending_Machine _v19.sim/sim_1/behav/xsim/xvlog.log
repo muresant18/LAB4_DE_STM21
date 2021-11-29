@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/muresant18/OneDrive - FH JOANNEUM/Dokumente/timi/DE/Lab4/Vending_Machine _v19/Vending_Machine _v19.srcs/sources_1/new/VendingM.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VendingM
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/muresant18/OneDrive - FH JOANNEUM/Dokumente/timi/DE/Lab4/Vending_Machine _v19/Vending_Machine _v19.srcs/sim_1/new/VendingM_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VendingM_tb

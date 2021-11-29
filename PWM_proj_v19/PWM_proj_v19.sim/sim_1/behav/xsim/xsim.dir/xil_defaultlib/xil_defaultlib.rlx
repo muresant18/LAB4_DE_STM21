@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.srcs/sim_1/new/generator_tb.sv,1638225785,systemVerilog,,,,generator_tb,,,,,,,,
+C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.srcs/sources_1/new/generator.sv,1637949697,systemVerilog,,C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.srcs/sources_1/new/output_controller.sv,,generator,,,,,,,,
+C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.srcs/sources_1/new/output_controller.sv,1637443716,systemVerilog,,C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.srcs/sources_1/new/pwm_module.sv,,output_controller,,,,,,,,
+C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.srcs/sources_1/new/pwm_module.sv,1637446251,systemVerilog,,C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.srcs/sim_1/new/generator_tb.sv,,pwm_module,,,,,,,,

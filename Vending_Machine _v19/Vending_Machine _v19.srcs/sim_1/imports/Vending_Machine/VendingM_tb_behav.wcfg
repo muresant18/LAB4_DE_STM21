@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="VendingM_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="VendingM_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="846000001fs"></ZoomEndTime>
+      <Cursor1Time time="846000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="177"></NameColumnWidth>
+      <ValueColumnWidth column_width="77"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/VendingM_tb/i_clk" type="logic">
+      <obj_property name="ElementShortName">i_clk</obj_property>
+      <obj_property name="ObjectShortName">i_clk</obj_property>
+      <obj_property name="CustomSignalColor">#DCDCDC</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/i_rst" type="logic">
+      <obj_property name="ElementShortName">i_rst</obj_property>
+      <obj_property name="ObjectShortName">i_rst</obj_property>
+      <obj_property name="CustomSignalColor">#FF0080</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/i_coin" type="logic">
+      <obj_property name="ElementShortName">i_coin</obj_property>
+      <obj_property name="ObjectShortName">i_coin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/i_sel" type="array">
+      <obj_property name="ElementShortName">i_sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">i_sel[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/i_abort" type="logic">
+      <obj_property name="ElementShortName">i_abort</obj_property>
+      <obj_property name="ObjectShortName">i_abort</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/i_prod_dispensed_conf" type="logic">
+      <obj_property name="ElementShortName">i_prod_dispensed_conf</obj_property>
+      <obj_property name="ObjectShortName">i_prod_dispensed_conf</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/o_coin_retn" type="logic">
+      <obj_property name="ElementShortName">o_coin_retn</obj_property>
+      <obj_property name="ObjectShortName">o_coin_retn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/o_prod" type="array">
+      <obj_property name="ElementShortName">o_prod[1:0]</obj_property>
+      <obj_property name="ObjectShortName">o_prod[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/o_disp" type="logic">
+      <obj_property name="ElementShortName">o_disp</obj_property>
+      <obj_property name="ObjectShortName">o_disp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/VendingM_i/actual_fsm_state" type="array">
+      <obj_property name="ElementShortName">actual_fsm_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">actual_fsm_state[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/VendingM_i/next_fsm_state" type="array">
+      <obj_property name="ElementShortName">next_fsm_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">next_fsm_state[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/VendingM_i/coins_cnt" type="array">
+      <obj_property name="ElementShortName">coins_cnt[2:0]</obj_property>
+      <obj_property name="ObjectShortName">coins_cnt[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/VendingM_i/coin_retn" type="logic">
+      <obj_property name="ElementShortName">coin_retn</obj_property>
+      <obj_property name="ObjectShortName">coin_retn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/VendingM_i/prod" type="array">
+      <obj_property name="ElementShortName">prod[1:0]</obj_property>
+      <obj_property name="ObjectShortName">prod[1:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VendingM_tb/VendingM_i/timeout_cnt" type="array">
+      <obj_property name="ElementShortName">timeout_cnt[5:0]</obj_property>
+      <obj_property name="ObjectShortName">timeout_cnt[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
