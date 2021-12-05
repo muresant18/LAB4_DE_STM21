@@ -1,0 +1,56 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of i_mode. pulse_counter =  5 and i_n =  5
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of i_mode. pulse_counter =  5 and i_n =  5
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of i_mode. pulse_counter =  5 and i_n =  5
+$finish called at time : 10004931 ns : File "C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.srcs/sim_1/new/generator_tb.sv" Line 189
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 15
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 8191
+End of i_mode. pulse_counter =  5 and i_n =  5
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 16382
+End of i_mode. pulse_counter =  5 and i_n =  5
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of one period. PMW_O = 0, period_lenght = 32766 and i_limit-1 = 32766 and i_duty = 24573
+End of i_mode. pulse_counter =  5 and i_n =  5
+$finish called at time : 10004931 ns : File "C:/STM1/DE_c/Lab4/PWM_proj_v19/PWM_proj_v19/PWM_proj_v19.srcs/sim_1/new/generator_tb.sv" Line 189
